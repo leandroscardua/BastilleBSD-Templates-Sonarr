@@ -1,0 +1,3 @@
+PKG sonarr
+SYSRC sonarr_enable="YES"
+SERVICE sonarr start
